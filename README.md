@@ -1,1 +1,1 @@
-Demo ---------> https://www.sumitparise.github.io/Cube-css
+Demo ---------> http://www.sumitparise.github.io/Cube-css
